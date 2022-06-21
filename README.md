@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**jvckmorvn/jvckmorvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi, I'm Jack 👋
+I'm a `full-stack developer` mainly working in Rails, with a pinch of Stimulus.
+I'm currently working on a project inspired by the work of Audrey Tang which aims to make the various policies of major UK parties more transparent and engaging for the general public. I do also dabble in a handful of other personal projects just for fun. 🥳 
+My inbox is always open for new ideas and opportunities to collaborate!
+Besides coding, I also enjoy:
+📚 reading 
+🌶️ spicy foods
+🎸 guitar
+🎧 music production
+Shoot me a message about what you're doing and let's see if I can help! 🚀
