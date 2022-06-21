@@ -4,7 +4,7 @@ I'm currently working on a project inspired by the work of [Audrey Tang](https:/
 I do also dabble in a handful of other personal projects just for fun. 🥳  
 Besides coding, I also enjoy:  
 📚 reading  
-🌶️ spicy foods
+🌶️ spicy foods  
 🎸 guitar  
 🎧 [music production](https://www.jvckmorvn.com/)  
 My inbox is always open for new ideas and opportunities to collaborate; shoot me a message about what you're doing and let's see if I can help! 🚀
