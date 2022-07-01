@@ -1,6 +1,5 @@
 ## Hi, I'm Jack. 👋
-I'm a `full-stack developer` working primarily in Rails, with a pinch of Stimulus.  
-I'm currently working on a handful of personal projects with friends, and teaching myself React. 🌱  
+I'm a `full-stack developer` working primarily in Rails, with a pinch of Stimulus, and teaching myself React. 🌱  
 Besides coding, I also enjoy:  
 📚 reading  
 🌶️ spicy foods  
