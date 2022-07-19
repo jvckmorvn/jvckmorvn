@@ -32,5 +32,5 @@ what you're doing and let's see if I can help! 🚀</p>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left"> 
-  <a href="https://linkedin.com/in/jvckmorvn/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jvckmorvn/" height="30" width="40"/></a>
+  <a href="https://linkedin.com/in/jvckmorvn/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/jvckmorvn/" height="40" width="40"/></a>
 </p>
