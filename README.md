@@ -5,7 +5,7 @@
   Besides coding, I also enjoy:
   <ul>
     <li>📚 reading a classic, tried n' true <a href="https://www.goodreads.com/book/show/14836.Midnight_s_Children" target="_blank">human book</a></li>
-    <li>🌶️ eating spicy foods covered in hot hot <a href="https://heatonist.com/" target="_blank">HOT sauce</a></li>
+    <li>🌶️ cooking spicy foods covered in hot hot <a href="https://heatonist.com/" target="_blank">HOT sauce</a></li>
     <li>🎸 playing <a href="https://www.thomann.de/gb/harley_benton_cla_15mce_solidwood.htm" target="_blank">one</a> of my <a href="https://www.fender.com/en-GB/electric-guitars/stratocaster/player-stratocaster/0144502515.html" target="_blank">two</a> beloved geetars</li>
     <li>🎧 producing <a href="https://www.jvckmorvn.com/" target="_tab">my own music</a></li>
   </ul>
