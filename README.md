@@ -13,6 +13,11 @@
 <p align="left">My inbox is always open for new ideas and opportunities to collaborate; <a href="mailto:jvckmorvn@gmail.com" target="_blank">shoot me a message</a> about<br>
 what you're doing and let's see if I can help! 🚀</p>
 
+<h4 align="left">Connect with me:</h4>
+<p align="left"> 
+  <a href="https://linkedin.com/in/jvckmorvn/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/jvckmorvn/" height="40" width="40"/></a>
+</p>
+
 <h4 align="left">Tools & Technologies:</h4>
 <p align="left">
   <a href="https://azure.microsoft.com/en-gb/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
@@ -32,9 +37,4 @@ what you're doing and let's see if I can help! 🚀</p>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
   <a href="https://slack.com/intl/en-gb/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/></a>
-</p>
-
-<h4 align="left">Connect with me:</h4>
-<p align="left"> 
-  <a href="https://linkedin.com/in/jvckmorvn/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/jvckmorvn/" height="40" width="40"/></a>
 </p>
