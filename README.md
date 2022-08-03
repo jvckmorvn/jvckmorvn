@@ -1,6 +1,6 @@
 <h1 align="center">>_ Hi, I'm Jack. 👋</h1>
 <h3 align="center">I'm a <code>full-stack developer</code> 💻 ⚡</h3>
-<p align="left">I work primarily in <strong>Ruby on Rails</strong> with a pinch of <strong>JS Stimulus</strong>, and am currently teaching myself <strong>React</strong>. 🌱</p>
+<p align="left">I work primarily in <strong>Ruby on Rails</strong> with a pinch of <strong>React</strong>, and am currently teaching myself <strong>Typescript</strong>. 🌱</p>
 <p align="left">
   Besides coding, I also enjoy:
   <ul>
