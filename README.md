@@ -10,8 +10,7 @@
     <li>🎧 producing <a href="https://www.jvckmorvn.com/" target="_tab">my own music</a></li>
   </ul>
 </p>
-<p align="left">My inbox is always open for new ideas and opportunities to collaborate; <a href="mailto:jvckmorvn@gmail.com" target="_blank">shoot me a message</a> about what<br>
-you're doing and let's see if I can help! 🚀</p>
+<p align="left">My inbox is always open for new ideas and opportunities to collaborate; <a href="mailto:jvckmorvn@gmail.com" target="_blank">shoot me a message</a> about what you're doing and let's see if I can help! 🚀</p>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left"> 
