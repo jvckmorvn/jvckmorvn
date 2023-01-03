@@ -1,6 +1,6 @@
 <h1 align="center">>_ Hi, I'm Jack. 👋</h1>
 <h3 align="center">I'm a <code>full-stack developer</code> 💻 ⚡</h3>
-<p align="left">I work primarily in <strong>Ruby on Rails</strong> with various flavours of <strong>JavaScript</strong>, but I'm constantly learning something new and  have experience using all the tools listed below. 🌱</p>
+<p align="left">I work primarily in <strong>Ruby on Rails</strong> with some <strong>JavaScript</strong>, but I'm constantly learning something new and have varying levels of experience with all the tools listed below. 🌱</p>
 <p align="left">
   Besides coding, I also enjoy:
   <ul>
@@ -33,7 +33,6 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
   <a href="https://rubyonrails.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/></a>
   <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
-  <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
   <a href="https://spring.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/></a>
 </p>
