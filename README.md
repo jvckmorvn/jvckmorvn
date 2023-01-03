@@ -7,7 +7,7 @@
     <li>🎸 strumming <a href="https://www.thomann.de/gb/harley_benton_cla_15mce_solidwood.htm" target="_blank">one</a> of my <a href="https://www.fender.com/en-GB/electric-guitars/stratocaster/player-stratocaster/0144502515.html" target="_blank">two</a> beloved geetars</li>
     <li>🎮 chucking <a href="https://mariokarttour.com/en-GB" target="_blank">banana peels</a> at strangers online</li>
     <li>📚 reading a classic, tried n' true <a href="https://www.goodreads.com/book/show/14836.Midnight_s_Children" target="_blank">human book</a></li>
-    <li>🚶 going on walks (to offset my love for food and hot hot <a href="https://heatonist.com/products/torchbearer-garlic-reaper" target="_blank">HOT sauce</a>)</li>
+    <li>🚶 going on walks...</li>
   </ul>
 </p>
 <p align="left">My inbox is always open for new ideas and opportunities to collaborate; <a href="mailto:jvckmorvn@gmail.com" target="_blank">shoot me a message</a> about what you're doing and let's see if I can help! 🚀</p>
