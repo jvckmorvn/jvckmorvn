@@ -2,13 +2,6 @@
 <h3 align="center">I'm a <code>full-stack developer</code> 💻 ⚡</h3>
 <p align="left">I work primarily in <strong>Ruby on Rails</strong> with a generous helping of <strong>JavaScript</strong>, but I'm constantly learning something new and have varying levels of experience with all the languages and tools listed below. 🌱</p>
 <p align="left">
-  Besides coding, I also enjoy:
-  <ul>
-    <li>🎸 strumming <a href="https://www.thomann.de/gb/harley_benton_cla_15mce_solidwood.htm" target="_blank">one</a> of my <a href="https://www.fender.com/en-GB/electric-guitars/stratocaster/player-stratocaster/0144502515.html" target="_blank">two</a> beloved geetars</li>
-    <li>📚 reading a classic, tried n' true <a href="https://www.goodreads.com/book/show/14836.Midnight_s_Children" target="_blank">human book</a></li>
-    <li>💪 keeping <a href="https://media.tenor.com/W7CmAnnqKBkAAAAC/gym-workout.gif" target="_blank">fit</a> and active any way I can</li>
-  </ul>
-</p>
 <p align="left">My inbox is always open for new ideas and opportunities to collaborate; <a href="mailto:jvckmorvn@gmail.com" target="_blank">shoot me a message</a> about what you're doing and let's see if I can help! 🚀</p>
 
 <h4 align="left">Connect with me:</h4>
