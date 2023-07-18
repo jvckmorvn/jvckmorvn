@@ -2,7 +2,7 @@
 <h3 align="center">I'm a <code>full-stack developer</code> 💻 ⚡</h3>
 <p align="left">I work primarily in <strong>Ruby on Rails</strong> with a generous helping of <strong>JavaScript</strong>, but I'm constantly learning something new and have varying levels of experience with all the languages and tools listed below. 🌱</p>
 <p align="left">
-<p align="left">My inbox is always open for new ideas and opportunities to collaborate; <a href="mailto:jvckmorvn@gmail.com" target="_blank">shoot me a message</a> about what you're doing and let's see if I can help! 🚀</p>
+<p align="left">My inbox is always open for new ideas and opportunities to collaborate; <a href="mailto:jvckmorvn@gmail.com" target="_blank">shoot me a message</a> about what you're doing and let's see how I can help! 🚀</p>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
