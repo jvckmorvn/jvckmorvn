@@ -1,6 +1,6 @@
 <h1 align="center"><code>$</code> Hi, I'm Jack 👋</h1>
 <h3 align="center">I'm a <code>software engineer</code> 💻 ⚡</h3>
-<p align="left">I work primarily in <strong>React.js</strong>, with a strong foundation in <strong>Ruby on Rails</strong> for any back-end work, but I'm quick to learn new things and I have experience with all the languages and tools listed below. 🌱</p>
+<p align="left">I work primarily in <strong>React.js</strong>, with a strong foundation in <strong>Ruby on Rails</strong> for any back-end work. I also have experience to varying extents with all the languages and tools listed below. 🌱</p>
 <p align="left">
 <p align="left">My inbox is always open for new ideas and opportunities to collaborate; <a href="mailto:jvckmorvn@gmail.com" target="_blank">shoot me a message</a> about what you're doing and let's see how I can help! 🚀</p>
 
