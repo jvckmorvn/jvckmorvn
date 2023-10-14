@@ -2,7 +2,7 @@
 <h3 align="center">I'm a <code>software_developer</code> 💻 ⚡</h3>
 <p align="left">I work primarily on the front-end using <strong>React</strong> and <strong>TypeScript</strong>, but I have a solid foundation in <strong>Python</strong> and <strong>Ruby</strong> for any back-end work. I also have experience with all the languages and tools listed below. 🌱</p>
 <p align="left">
-<p align="left">My inbox is always open for new ideas and opportunities to collaborate; <a href="mailto:jvckmorvn@gmail.com" target="_blank">shoot me a message</a> about what you're doing and let's see how I can help! 🚀</p>
+<p align="left">My inbox is always open for new ideas and opportunities to collaborate; <a href="mailto:jvckmorvn@gmail.com" target="_blank">shoot me a message</a> with what you're working on and let's see how I can help! 🚀</p>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
