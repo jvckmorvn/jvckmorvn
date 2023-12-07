@@ -1,6 +1,6 @@
 <h1 align="center"><code>$</code> Hi, I'm Jack 👋</h1>
 <h3 align="center">I'm a <code>software_developer</code> 💻 ⚡</h3>
-<p align="left">I work primarily on the front-end using <strong>React</strong> and <strong>TypeScript</strong>, and turn to <strong>Node.js</strong> or <strong>Ruby</strong> for any back-end work. I also have experience with all the languages and tools listed below. 🌱</p>
+<p align="left">I tend to use <strong>Next.js</strong> and <strong>TypeScript</strong> on the front-end, and turn to <strong>Node.js</strong> or <strong>Ruby</strong> for any back-end work. I'm also a big fan of all the shiny tools listed below. 🌱</p>
 <p align="left">
 <p align="left">My inbox is always open for new ideas and opportunities to collaborate; <a href="mailto:jvckmorvn@gmail.com" target="_blank">shoot me a message</a> with what you're working on and let's see how I can help! 🚀</p>
 
@@ -9,9 +9,8 @@
   <a href="https://linkedin.com/in/jvckmorvn/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/jvckmorvn/" height="40" width="40"/></a>
 </p>
 
-<h4 align="left">Languages & Tools:</h4>
+<h4 align="left">Tools:</h4>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
