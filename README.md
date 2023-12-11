@@ -1,5 +1,5 @@
 <h1 align="center"><code>$</code> Hi, I'm Jack 👋</h1>
-<h3 align="center">I'm a <code>fullstack_developer</code> 💻 ⚡</h3>
+<h3 align="center">I am a <code>full_stack_developer</code> 💻 ⚡</h3>
 <p align="left">I tend to use <strong>Next.js</strong> and <strong>TypeScript</strong> on the front-end, and <strong>Node.js</strong> or <strong>Ruby</strong> for the back.</p>
 <p>I'm also a big fan of all the shiny tools listed below.</p>
 <p align="left">
