@@ -1,6 +1,6 @@
 <h1 align="center"><code>$</code> Hi, I'm Jack 👋</h1>
 <h3 align="center">I'm a <code>full_stack_developer</code> 💻 ⚡</h3>
-<p align="left">I tend to use <strong>Next.js</strong> and <strong>TypeScript</strong> on the front-end, and <strong>Node.js</strong> or <strong>Ruby</strong> for the back.</p>
+<p align="left">I work primarily with <strong>Next.js</strong> and <strong>TypeScript</strong>, using <strong>React</strong> on the front-end and <strong>Node.js</strong> for the back.</p>
 <p>I'm also a big fan of all the tools listed below.</p>
 <p align="left">
 <p align="left">My inbox is always open for new ideas and opportunities to collaborate; <a href="mailto:jvckmorvn@gmail.com" target="_blank">shoot me a message</a> with what you're working on. 🚀</p>
