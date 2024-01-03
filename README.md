@@ -1,6 +1,6 @@
 <h1 align="center"><code>$</code> Hi, I'm Jack 👋</h1>
 <h3 align="center">I'm a <code>full_stack_developer</code> 💻 ⚡</h3>
-<p align="left">I work primarily with two different full-stack frameworks: <strong>Next.js</strong> (using <strong>React</strong> and <strong>TypeScript</strong>), and <strong>Ruby on Rails</strong>.</p>
+<p align="left">I work primarily with two full-stack frameworks: <strong>Next.js</strong> (using <strong>React</strong> and <strong>TypeScript</strong>), and <strong>Ruby on Rails</strong>.</p>
 <p align="left">My inbox is always open for new ideas and opportunities to collaborate; <a href="mailto:jvckmorvn@gmail.com" target="_blank">shoot me a message</a> with what you're working on. 🚀</p>
 
 <h4 align="left">Connect with me:</h4>
