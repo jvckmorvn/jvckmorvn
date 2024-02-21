@@ -1,5 +1,5 @@
 <h1 align="center"><code>$</code> Hi, I'm Jack 👋</h1>
-<h3 align="center">I'm a <code>full_stack_developer</code> 💻 ⚡</h3>
+<h3 align="center">I'm a <code>full_stack_engineer</code> 💻 ⚡</h3>
 <p align="left">I work primarily with two different web frameworks:</p>
   <ul>
   <!--
