@@ -1,6 +1,6 @@
 <h1 align="center"><code>$</code> Hi, I'm Jack 👋</h1>
-<h3 align="center">I'm a <code>software_engineer</code> 💻 ⚡</h3>
-<p align="left">I work primarily with two full-stack web frameworks:</p>
+<h3 align="center">I'm a <code>full_stack_developer</code> 💻 ⚡</h3>
+<p align="left">I work primarily with two frameworks:</p>
   <ul>
     <li><strong>ASP.NET Core</strong> (with <strong>React</strong> and <strong>TypeScript</strong> on the frontend) for larger projects, and</li>
     <!--
