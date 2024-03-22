@@ -2,7 +2,7 @@
 <h3 align="center">I'm a <code>full_stack_developer</code> 💻 ⚡</h3>
 <p align="left">I work primarily with two frameworks:</p>
   <ul>
-    <li><strong>ASP.NET Core</strong> (with <strong>React</strong> and <strong>TypeScript</strong> on the frontend) for larger projects, and</li>
+    <li><strong>.NET Core</strong> (with <strong>React</strong> and <strong>TypeScript</strong> on the frontend) for larger projects, and</li>
     <!--
     <li><strong>Next.js</strong> (with <strong>React</strong> and <strong>TypeScript</strong> on the frontend) for larger projects, and</li>
     -->
