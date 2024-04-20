@@ -9,7 +9,7 @@
     <li><strong>Ruby on Rails</strong> for smaller ones</li>
   </ul>
 <p>I'm also a big fan of <strong>Tailwind CSS</strong> and will recommend it to anyone who will listen.</p>
-<p align="left">My inbox is always open for new ideas and opportunities to collaborate, just <a href="mailto:jvckmorvn@gmail.com" target="_blank">shoot me a message</a> with what you're working on. 🚀</p>
+<p align="left">My inbox is open for new ideas and opportunities to collaborate, just <a href="mailto:jvckmorvn@gmail.com" target="_blank">shoot me a message</a> with what you're working on. 🚀</p>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
