@@ -1,5 +1,4 @@
 <h1 align="center"><code>$</code> Hi, I'm Jack 👋</h1>
-<h3 align="center">I'm a <code>full_stack_developer</code> 💻 ⚡</h3>
 <p align="left">I work primarily with <strong>Java (Spring Boot)</strong>, using <strong>React</strong> with <strong>TypeScript</strong> on the frontend.</p>
 <p align="left">My inbox is open for new ideas and opportunities to collaborate, <a href="mailto:jvckmorvn@gmail.com" target="_blank">shoot me a message</a> with what you're working on. 🚀</p>
 
